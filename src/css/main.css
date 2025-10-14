@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    background-color: #fafafa;
+}
+
+header {
+    background-color: #0a1f44;
+    color: #fff;
+    padding: 10px;
+}
+
+.logo h1 {
+    font-size: 1.8rem;
+}
+
+.logo .date {
+    font-size: 0.9rem;
+    color: #ccc;
+}
+
+.nav .nav-links {
+    display: flex;
+    gap: 15px;
+}
+
+.nav .nav-links li a {
+    color: #fff;
+    font-weight: bold;
+}
+
+.hamburger {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #0a1f44;
+    color: #fff;
+    margin-top: 20px;
+}
